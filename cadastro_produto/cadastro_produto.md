@@ -1,7 +1,7 @@
-## Cadastro Produtos
+# Cadastro Produtos
 - Produto
 
 
-# Verificações
+## Verificações
 - Produto sem NCM
 - Produto sem código do Ekoos
